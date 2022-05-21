@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.contanier {
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(41, 113, 177);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+input {
+    width: 100%;
+    padding: 5px;
+    display: block;
+    margin-bottom: 10px;
+}
